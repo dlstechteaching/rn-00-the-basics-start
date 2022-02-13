@@ -20,7 +20,7 @@ yarn install
 
 ## Run the project
 
-Launch the project
+Launch the project using expo or npm or yarn
 ```bash
 expo start
 ```
@@ -32,6 +32,6 @@ npm start
 yarn start
 ```
 
-- Web browser (just click on it ;))
+- Web browser
 - iOS Device, install [Expo Go app](https://apps.apple.com/us/app/expo-go/id982107779)
 - Android Device, , install : [Expo app](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=fr&gl=US)
